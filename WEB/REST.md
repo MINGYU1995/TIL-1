@@ -1,7 +1,7 @@
 # REST API
 > 자원의 위치는 HTTP URI로, 자원에 대한 행위는 HTTP Method로 API를 설계하는 방식이다.
 
-<br>
+<b
 
 
 ## 💡 REST API에 대한 나의 생각
